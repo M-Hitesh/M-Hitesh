@@ -21,7 +21,7 @@ In August,2023 due to some reason we have to stop our operations and in that tim
 
 - **Languages:** Python, SQL
 - **Tools:** Excel, Jupyter, Colab, Postgresql 
-- **Visualization:** [Highlight visualization tools like Matplotlib, Pandas, Seaborn
+- **Visualization:** Excel, Matplotlib, Pandas, Seaborn
 
 ### 🌐 Connect with Me
 
