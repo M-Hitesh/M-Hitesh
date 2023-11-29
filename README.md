@@ -4,11 +4,11 @@ I'm Hitesh, a passionate data analyst with a keen interest in uncovering insight
 
 ### 💼 Professional Experience
 
-I've had the privilege of working in a hyperlocal startup that I co-founded with my 3 friends and mostly look after customer relations and clients onboarding . During this time, I honed my skills in decision-making, customers relationships and delivering actionable insights that contributed to the growth of our company.
+I've had the privilege of working in a hyperlocal startup that I co-founded with my 3 friends and mostly look after customer relations and clients onboarding . During this time, I honed my skills in decision-making, customers relationships and delivering actionable insights from the records of daily data in terms of deliveries, time,ticket-size etc that contributed to the growth of our company.
 
 ### Love story with data
 
-In August,2023 due to some reason we have to stop our operations and in that time I started looking in datasets from kaggle and found the data analysis roadmap intersesting and just love the way to think in getting insights from given dataset and bring out meaningful insights from it.
+In August,2023 due to some reason we have to stop our operations and in that time I started looking in datasets from kaggle and found the data analysis roadmap intersesting and just love the way to think in getting insights from given dataset and bring out meaningful insights from it using python, sql, pandas, numpy and matplot libraries.
 
 ### 🚀 What I Bring to the Table
 
